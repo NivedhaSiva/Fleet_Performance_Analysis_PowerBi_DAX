@@ -71,7 +71,7 @@ This dashboard integrates **Trip_Data** and **Vehicle_Master** tables to uncover
 ---
 
 ## 📸 Dashboard Preview
-images/Fleet_Performance.png
+![Fleet Performance Dashboard](images/Fleet_Performance.png)
 
 ---
 
