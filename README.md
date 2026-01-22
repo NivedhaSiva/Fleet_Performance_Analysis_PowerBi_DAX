@@ -71,7 +71,7 @@ This dashboard integrates **Trip_Data** and **Vehicle_Master** tables to uncover
 ---
 
 ## 📸 Dashboard Preview
-*(Insert screenshots of your Power BI dashboard here)*
+images/Fleet_Performance.png
 
 ---
 
